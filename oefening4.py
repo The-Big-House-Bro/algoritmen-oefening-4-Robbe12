@@ -7,7 +7,6 @@ def countTargetPairs(nums, target):
                 count += 1
     return count
 
-# Test cases
 
 nums1 = [-1, 1, 2, 3, 1]
 target1 = 2
